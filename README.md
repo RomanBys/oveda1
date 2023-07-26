@@ -2,4 +2,3 @@
 Auger 1 2023
 
 open data
-don't readme
